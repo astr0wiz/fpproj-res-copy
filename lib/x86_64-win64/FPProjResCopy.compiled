@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="D:\lazarus\fpc\3.2.0\bin\x86_64-win64\fpc.exe" Date="1357350767"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq -FiH:\Development\FreePascal\Projects\FPProjResCopy\lib\x86_64-win64 -FuH:\Development\FreePascal\Projects\FPProjResCopy\ -FUH:\Development\FreePascal\Projects\FPProjResCopy\lib\x86_64-win64\ -FEH:\Development\FreePascal\Projects\FPProjResCopy\bin\x86_64-win64\ -oH:\Development\FreePascal\Projects\FPProjResCopy\bin\x86_64-win64\FPProjResCopy.exe FPProjResCopy.lpr"/>
+</CONFIG>

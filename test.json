@@ -1,0 +1,55 @@
+{
+	"Folders": [
+		{
+			"Folder": {
+				"Path": "Resources",
+				"Files": [
+					{
+						"Name": "file-1"
+					},
+					{
+						"Name": "file-2"
+					},
+					{
+						"Name": "file-3"
+					}
+				]
+			}
+		},
+		{
+			"Folder": {
+				"Path": "Resources/Images",
+				"Files": [
+					{
+						"Name": "img-1.png"
+					},
+					{
+						"Name": "img-2.png"
+					}
+				]
+			}
+		},
+		{
+			"Folder": {
+				"Path": "Data/Cells/Dungeons",
+				"Files": [
+					{
+						"Name": "dungeoncells.dat"
+					}
+				]
+			}
+		},
+		{
+			"Folder": {
+				"Path": "Backup"
+			}
+		},
+		{
+			"Folder": {
+				"Path": "Screenshots",
+				"Files": [
+				]
+			}
+		}
+	]
+}

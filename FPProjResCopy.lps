@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="5">
+      <Unit0>
+        <Filename Value="FPProjResCopy.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="212"/>
+        <CursorPos X="43" Y="280"/>
+        <FoldState Value=" T7jZSA T3mC2S3F"/>
+        <UsageCount Value="44"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="FolderObjectsJSON.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="FolderObjects"/>
+        <EditorIndex Value="1"/>
+        <UsageCount Value="31"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="jsonparserTest.pas"/>
+        <UnitName Value="FolderObjects"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="41" Y="353"/>
+        <UsageCount Value="19"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="test.json"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="test.json.bak"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit4>
+    </Units>
+    <JumpHistory Count="26" HistoryIndex="25">
+      <Position1>
+        <Filename Value="FPProjResCopy.lpr"/>
+        <Caret Line="115" Column="79" TopLine="60"/>
+      </Position1>
+      <Position2>
+        <Filename Value="FPProjResCopy.lpr"/>
+        <Caret Line="105" Column="26" TopLine="75"/>
+      </Position2>
+      <Position3>
+        <Filename Value="FPProjResCopy.lpr"/>
+        <Caret Line="101" Column="39" TopLine="69"/>
+      </Position3>
+      <Position4>
+        <Filename Value="FPProjResCopy.lpr"/>
+        <Caret Line="108" Column="16" TopLine="84"/>
+      </Position4>
+      <Position5>
+        <Filename Value="FPProjResCopy.lpr"/>
+        <Caret Line="124" Column="15" TopLine="93"/>
+      </Position5>
+      <Position6>
+        <Filename Value="FPProjResCopy.lpr"/>
+        <Caret Line="139" Column="20" TopLine="122"/>
+      </Position6>
+      <Position7>
+        <Filename Value="FPProjResCopy.lpr"/>
+        <Caret Line="142" Column="29" TopLine="111"/>
+      </Position7>
+      <Position8>
+        <Filename Value="FPProjResCopy.lpr"/>
+        <Caret Line="227" Column="16" TopLine="179"/>
+      </Position8>
+      <Position9>
+        <Filename Value="FPProjResCopy.lpr"/>
+        <Caret Line="231" Column="19" TopLine="191"/>
+      </Position9>
+      <Position10>
+        <Filename Value="FPProjResCopy.lpr"/>
+        <Caret Line="105" Column="39" TopLine="98"/>
+      </Position10>
+      <Position11>
+        <Filename Value="FPProjResCopy.lpr"/>
+        <Caret Line="105" Column="42" TopLine="86"/>
+      </Position11>
+      <Position12>
+        <Filename Value="FPProjResCopy.lpr"/>
+        <Caret Line="163" Column="15" TopLine="132"/>
+      </Position12>
+      <Position13>
+        <Filename Value="FPProjResCopy.lpr"/>
+        <Caret Line="110" Column="17" TopLine="79"/>
+      </Position13>
+      <Position14>
+        <Filename Value="FPProjResCopy.lpr"/>
+        <Caret Line="222" Column="109" TopLine="170"/>
+      </Position14>
+      <Position15>
+        <Filename Value="FPProjResCopy.lpr"/>
+        <Caret Line="139" Column="10" TopLine="110"/>
+      </Position15>
+      <Position16>
+        <Filename Value="FPProjResCopy.lpr"/>
+        <Caret Line="271" TopLine="196"/>
+      </Position16>
+      <Position17>
+        <Filename Value="FPProjResCopy.lpr"/>
+        <Caret Line="272" Column="45" TopLine="196"/>
+      </Position17>
+      <Position18>
+        <Filename Value="FPProjResCopy.lpr"/>
+        <Caret Line="157" Column="15" TopLine="123"/>
+      </Position18>
+      <Position19>
+        <Filename Value="FPProjResCopy.lpr"/>
+        <Caret Line="180" Column="25" TopLine="138"/>
+      </Position19>
+      <Position20>
+        <Filename Value="FPProjResCopy.lpr"/>
+        <Caret Line="127" Column="23" TopLine="111"/>
+      </Position20>
+      <Position21>
+        <Filename Value="FPProjResCopy.lpr"/>
+        <Caret Line="180" Column="39" TopLine="137"/>
+      </Position21>
+      <Position22>
+        <Filename Value="FPProjResCopy.lpr"/>
+        <Caret Line="127" Column="17" TopLine="96"/>
+      </Position22>
+      <Position23>
+        <Filename Value="FPProjResCopy.lpr"/>
+        <Caret Line="294" Column="29" TopLine="214"/>
+      </Position23>
+      <Position24>
+        <Filename Value="FPProjResCopy.lpr"/>
+        <Caret Line="302" Column="33" TopLine="218"/>
+      </Position24>
+      <Position25>
+        <Filename Value="FPProjResCopy.lpr"/>
+        <Caret Line="294" Column="44" TopLine="218"/>
+      </Position25>
+      <Position26>
+        <Filename Value="FolderObjectsJSON.pas"/>
+      </Position26>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

@@ -1,0 +1,14 @@
+{
+	"Path": "Resources",
+	"Files": [
+		{
+			"Name": "file-1"
+		},
+		{
+			"Name": "file-2"
+		},
+		{
+			"Name": "file-3"
+		}
+	]
+}
